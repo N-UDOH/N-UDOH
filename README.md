@@ -1,5 +1,5 @@
 # Hi, I'm Nicholas Udoh 👋  
-*AI & NLP Engineer | Data Scientist | Technical Writer*  
+*AI & NLP Engineer | Data Scientist | Technical Writer | Researcher*  
 
 🚀 I turn data into intelligent solutions and clear, impactful stories.  
 My work spans *Data Science, **Machine Learning, **Natural Language Processing, **Teaching, and **Technical Writing* — combining hands-on projects with a passion for making complex concepts understandable.  
