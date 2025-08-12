@@ -21,7 +21,7 @@ My work spans *Data Science, **Machine Learning, **Natural Language Processing, 
   Hands-on projects in regression, classification, clustering, and visualization.  
 
 ### 🌍 *Natural Language Processing (NLP)*
-- [NLP-PORTFOLIO](https://github.com/N-UDOH/NLP-PROJECTS)  
+- [NLP-PORTFOLIO](https://github.com/N-UDOH/NLP-PORTFOLIO)  
   Multilingual translation, speech-to-text, summarization, and sentiment analysis systems.  
 
 ### 📚 *Teaching Materials*
