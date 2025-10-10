@@ -1,4 +1,4 @@
-# Hi👋 , I'm Nicholas Udoh fondly called CaptainN (*Bsc(infoTech) | Msc(Artificial Intelligence) | Msc(Financial Engineering) | PhD(in view)*
+# Hi👋 , I'm Nicholas Udoh fondly called CaptainN *Bsc(infoTech) | Msc(Artificial Intelligence) | Msc(Financial Engineering) | PhD(in view)*
 *AI & NLP Engineer | Financial Engineer | Data Scientist | Technical Writer | Researcher*  
 
 🚀 I turn data into intelligent solutions and clear, impactful stories.  
