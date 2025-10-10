@@ -1,4 +1,4 @@
-# Hi, I'm Nicholas Udoh 👋  
+# Hi👋 , I'm Nicholas Udoh fondly called CaptainN (*Bsc(infoTech) | Msc(Artificial Intelligence) | Msc(Financial Engineering) | PhD(in view)*
 *AI & NLP Engineer | Financial Engineer | Data Scientist | Technical Writer | Researcher*  
 
 🚀 I turn data into intelligent solutions and clear, impactful stories.  
@@ -16,19 +16,19 @@ My work spans *Data Science, **Machine Learning, **Natural Language Processing, 
 
 ## 📂 Featured Portfolios  
 
-### 🧠 *Data Science & Machine Learning*
+### 🧠 Data Science & Machine Learning
 - [DATA-SCIENCE-ML-PORTFOLIO](https://github.com/N-UDOH/DATA-SCIENCE-ML-PORTFOLIO)  
   Hands-on projects in regression, classification, clustering, and visualization.  
 
-### 🌍 *Natural Language Processing (NLP)*
+### 🌍 Natural Language Processing (NLP)
 - [NLP-PORTFOLIO](https://github.com/N-UDOH/NLP-PORTFOLIO)  
   Multilingual translation, speech-to-text, summarization, and sentiment analysis systems.  
 
-### 📚 *Teaching Materials*
+### 📚 Teaching Materials
 - [TEACHING-MATERIALS](https://github.com/N-UDOH/TEACHING-MATERIALS)  
   Lecture notes, Jupyter notebooks, and practical exercises for AI/ML education.  
 
-### ✍ *Technical Writing*
+### ✍ Technical Writing
 - [TECHNICAL-WRITING-PORTFOLIO](https://github.com/N-UDOH/TECHNICAL-WRITING-PORTFOLIO)  
   Clear, practical guides and professional documentation for AI & data science topics.  
 
