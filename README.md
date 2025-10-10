@@ -7,10 +7,10 @@ My work spans *Data Science, **Machine Learning, **Natural Language Processing, 
 ---
 
 ## 🔍 What I Do  
-- *Data Science & Machine Learning:* End-to-end model development, from problem framing to deployment.  
-- *Natural Language Processing:* Translation, summarization, speech-to-text, sentiment analysis, low-resource language solutions etc.  
-- *Teaching & Educational Content:* Creating structured, practical resources for learners in Data Science, AI, ML, NLP etc.  
-- *Technical Writing:* High-quality documentation, tutorials, guides, and research papers 
+- Data Science & Machine Learning: *End-to-end model development, from problem framing to deployment.*  
+- Natural Language Processing: *Translation, summarization, speech-to-text, sentiment analysis, low-resource language solutions etc.*  
+- Teaching & Educational Content: *Creating structured, practical resources for learners in Data Science, AI, ML, NLP etc.*  
+- Technical Writing: *High-quality documentation, tutorials, guides, and research papers* 
 
 ---
 
